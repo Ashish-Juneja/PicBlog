@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PicBlog</string>
+    <string name="passhint">Password</string>
+    <string name="your_email">Your Email...</string>
+    <string name="login_logo_desc">logo login page</string>
+    <string name="login_btn_text">Login to account</string>
+    <string name="login_reg_btn_text">Need a new account?</string>
+    <string name="login_bttn_text">Login to Account</string>
+    <string name="login_reg_bttn_text">Need a new account?</string>
+    <string name="login_to_account">Login to Account</string>
+</resources>
